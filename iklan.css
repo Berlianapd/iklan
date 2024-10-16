@@ -11,11 +11,6 @@ body {
     color: #333;
 }
 
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-}
 
 header {
     background: #740303;
@@ -32,15 +27,6 @@ header a {
     font-size: 16px;
 }
 
-header ul {
-    padding: 0;
-    list-style: none;
-}
-
-header ul li {
-    display: inline;
-    padding: 0 20px 0 20px;
-}
 
 header h1 {
     text-align: center;
@@ -76,10 +62,6 @@ header nav {
     margin-left: 50px;
 }
 
-.product-details h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
 
 .product-details p {
     margin-bottom: 20px;
@@ -101,9 +83,6 @@ header nav {
     border-radius: 5px;
 }
 
-.buy-now:hover {
-    background-color: #555;
-}
 
 footer {
     text-align: center;
