@@ -11,7 +11,6 @@ body {
     color: #333;
 }
 
-
 header {
     background: #740303;
     color: #fcf22e;
@@ -27,16 +26,10 @@ header a {
     font-size: 16px;
 }
 
-
 header h1 {
     text-align: center;
     width: 100%;
     margin: 0;
-}
-
-header nav {
-    float: left;
-    margin-top: 10px;
 }
 
 .product-container {
@@ -50,7 +43,6 @@ header nav {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-
 .product-image img {
     width: 300px;
     border-radius: 8px;
@@ -61,7 +53,6 @@ header nav {
     max-width: 600px;
     margin-left: 50px;
 }
-
 
 .product-details p {
     margin-bottom: 20px;
@@ -82,7 +73,6 @@ header nav {
     cursor: pointer;
     border-radius: 5px;
 }
-
 
 footer {
     text-align: center;
